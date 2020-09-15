@@ -1,0 +1,6 @@
+#include "sudoku/sudoku.h"
+#include <iostream>
+#include <fstream>
+
+// Imports Sudoku's in sudoku.txt and returns a vector of Sudoku objects.
+std::vector<Sudoku> import(std::string const &fileName);
