@@ -1,2 +1,22 @@
-# SUSolve
-C++ based command line tool for solving sudokus
+SUSolve is a C++ based command line tool for solving Sudokus. The core algorithms
+were first written to solve project Euler problem 96, and later an improved
+implementation was used as a graduation project for Frank Brokken's C++ course.
+
+Currently, I (plan to) use this as a test project for learning/testing new tools
+like:
+
+-Pthreads/OpenMP in C++
+-CMake, including testing and installation
+-GIT
+-Doxygen
+
+--------------------------------------------------------------------------------
+
+Links:
+
+https://en.wikipedia.org/wiki/Sudoku
+https://en.wikipedia.org/wiki/Mathematics_of_Sudoku
+https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
+
+https://projecteuler.net/problem=96
+http://www.icce.rug.nl/edu/
